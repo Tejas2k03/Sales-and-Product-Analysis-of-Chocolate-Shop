@@ -45,4 +45,7 @@ Using the available sales and product data:
 
 ## Sales Dashboard
 
-- Created a Power BI dashboard (image provided).
+- Created a Power BI dashboard.
+  
+  ![image](https://github.com/user-attachments/assets/9fd51625-6e6a-4259-a177-4d12c857cb60)
+
